@@ -1,0 +1,13 @@
+
+                                       Bivalve Collection Sites 2021: Portsmouth, NH
+                                                  Nathan Giffard, 9/15/21
+
+Goal: Create a map of Portsmouth, NH and overlay site locations 
+
+Data file: Bivalves_data_2.csv
+
+Files:
+
+	•	CodeBook.rtf is a code book that describes the project, the data, and the variables
+	•	Bivalve_plot.R  downloads the data and creates a ggmap to accomplish the goal above
+	•	map_final.pdf is the exported product

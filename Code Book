@@ -1,0 +1,28 @@
+Bivalve Collection Sites 2021: Portsmouth, NH
+Nathan Giffard, 9/15/21
+
+
+Goal: Create a map of Portsmouth, NH and overlay site locations 
+
+Data file: Bivalves_data_2.csv
+
+
+1. Register Google API Key
+	◦	register_google(key = ‘ insert key’ ) 
+2. Load data file
+	◦	data <- read.csv() : 14 rows, 9 columns
+
+3. Create base map of Portsmouth, NH
+	◦	portsmouth is created using boundary coordinates for the city
+	◦	map_portsmouth is created using stamen_map() 
+
+4. Overlay data
+	◦	Map is created using ggmap(map_portsmouth)
+		- 	geom_point() is used to plot Longitude and Latitude, colored by site 
+		- 	tick marks and axis labels removed
+		- 	Title and subtitle added; text size and position set
+		- 	Theme() is used to adjust legend title, text, background and key color, margins. 			orientation, and position
+5. Export map
+	◦	map exported as PDF named ‘./map_final.pdf’
+
+```

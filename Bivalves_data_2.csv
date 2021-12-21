@@ -1,0 +1,15 @@
+Site,Color,collection date,species,# replicates,Total#organisms,Comments,Samplers,AirTemp,WindBearing,WindDirection,Weather,SampTime,WaterTemp,WaterSalinity,Latitude,Longitude
+LHWM1,red,11/21/19,mussel,2,,,C. Nash,6,330,0-5 mph,p. cloudy,10:20,7.3,29.8,43.062,-70.737
+LHWM1,red,11/21/19,softshell clam,1,,,C. Nash,6,330,0-5 mph,p. cloudy,10:25,7.3,29.8,43.062,-70.737
+TI4A,purple,11/21/19,mussel,2,,,"B. Dejadon, M. Ficarra",6,330,0-5 mph,p. cloudy,11:20,5.5,25.7,43.048,-70.728
+LHOP2,green,8/5/20,mussel,2,25,,B. Dejadon,26,240,0-5 mph,clear,7:48,20.4,30,43.051,-70.728
+LBFP1,blue,9/17/20,oyster,3,36,note multiple lat/long for the different species,"B. Dejadon, T. Chin",19,n/a,calm,m. cloudy,7:45,17,29.8,43.119,-70.857
+LBFP1,blue,9/17/20,razor clam,2,24,note multiple lat/long for the different species,"B. Dejadon, T. Chin, C. Nash",19,n/a,calm,m. cloudy,7:45,,,43.118,-70.855
+LBFP1,blue,9/17/20,softshell clam,,4,note multiple lat/long for the different species,C. Nash,19,n/a,calm,m. cloudy,7:45,,,43.119,-70.855
+LBFP1,blue,9/22/20,softshell clam,2,23,note multiple lat/long for the different species,C. Nash,12,n/a,calm,m. cloudy,9:15,13.2,30.1,43.116,-70.853
+LHOP2,green,9/22/20,Eur. oyster,1,14,,B. Dejadon,12,n/a,calm,m. cloudy,9:17,,,43.051,-70.728
+LHOP2,green,9/22/20,mussel,2,26,,B. Dejadon,12,n/a,calm,m. cloudy,9:16,12.5,31.3,43.051,-70.728
+Boston Harbor Rd,orange,11/2/2020,softshell clam,1,15,,C. Nash,4,240,>10 mph,clear,7:00,7.9,29.3,43.125,-70.839
+LBHP1,white,11/15/20,mussel,3,36,,C. Nash,7,150,0-5 mph,m. cloudy,15:55,9.6,31.2,43.119,-70.827
+Boston Harbor Rd,orange,11/16/20,softshell clam,2,30,,C. Nash,6,270,5-10 mph,m. cloudy,6:45,8.6,30.3,43.125,-70.839
+Woodman Point,yellow,11/16/20,oyster,2,,lat/long is an estimate,T. Chin,6,270,5-10 mph,p. cloudy,7:15,8.7,28.1,43.077,-70.861
